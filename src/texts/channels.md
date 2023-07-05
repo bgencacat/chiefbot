@@ -56,6 +56,8 @@ Sadece <@&1119246787471999017> (5. Seviye) ve <@&1119247855329235059> (10. Seviy
 
 <#1120372948960825385> - Bu kanalda bot komutlarını kullanabilirsin. Şu an mevcut olan komutlar `/seviye` ve `/davet`
 
+<#1121089031506247732> - Bu kanalda Gartic.io, Virtual Vacation gibi oyunların davet bağlantılarını paylaşabilirsin.
+
 ---
 
 # (FFC300)
