@@ -5,7 +5,7 @@ Oyunlar oynayacak arkadaşlar bul, eserlerini paylaş, yeni şeyler öğren ve o
 Sunucu hakkında daha fazla bilgi edinmek istersen <#1119612353999290509> kanalına göz at.
 
 🕊️ Arkadaşlarını davet etmek ister misin?
-https://discord.gg/xpUcfuA4W2
+/davet kodunu kullanarak tek kullanımlık davet kodunu edinebilirsin. 
 
 ---
 
